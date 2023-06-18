@@ -24,7 +24,7 @@ Hello! My name is Jakob Engler, and I am a recent graduate of Prime Digital Acad
 <h3 align="center">Interests</h3>
 <hr />
 <p align="center">
-💻  <b>Full Stack Development</b> &nbsp;&bull;&nbsp; 🚗 <b>Lover Of Motor Sports</b> &nbsp;&bull;&nbsp;  🍻 <b>Craft Beer</b> &nbsp;&bull;&nbsp; 🤓 <b>Learning New Things</b>
+💻  <b>Full Stack Development</b> &nbsp;&bull;&nbsp; 🚗 <b>Motor Sports</b> &nbsp;&bull;&nbsp;  🍻 <b>Craft Beer</b> &nbsp;&bull;&nbsp; 🤓 <b>Learning New Things</b>
 <br />
 <!--------------------- Technologies ---------------------->
 <h3 align="center">Technologies</h3>
