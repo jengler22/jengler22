@@ -17,7 +17,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <hr />
 <p align="center">  
-Hello! My name is Jakob Engler, and I am a recent graduate of Prime Digital Academy. I'm very exited about my new journey into software. 
+Hello! My name is Jakob Engler, and I will be graduating from Prime Digital Academy on July 18th 2023. I'm very exited about my new journey into software. 
 </p>
 <br />
 <!--------------------- Interests ---------------------->
