@@ -18,6 +18,7 @@
 <hr />
 <p align="center">  
 Hello! My name is Jakob Engler, and I will be graduating from Prime Digital Academy on July 18th 2023. I'm very exited about my new journey into software. 
+ I have recently completed my Capstone Solo Project called "Save Them All Minnesota. A full-stack pet adoption application that features Minnesota only Anmimal shelters as well as a public Lost & Found board where users can post their missing pets. ReadMe will be posted soon!
 </p>
 <br />
 <!--------------------- Interests ---------------------->
