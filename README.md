@@ -17,8 +17,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <hr />
 <p align="center">  
-Hello! My name is Jakob Engler, and I will be graduating from Prime Digital Academy on July 18th 2023. I'm very exited about my new journey into software, and my continued grown in the indusrty. I will be attending University in the fall to pursue my Bachelors Degree in Computer Science!
- I have recently completed my Capstone Solo Project called "Save Them All Minnesota." A full-stack pet adoption application that features Minnesota only Anmimal shelters as well as a public Lost & Found board where users can post their missing pets.
+Hello! My name is Jakob Engler, and I am a jr Full-Stack Devoloper. I'm very exited about my new journey into software, and my continued grown in the indusrty.
 </p>
 <br />
 <!--------------------- Interests ---------------------->
