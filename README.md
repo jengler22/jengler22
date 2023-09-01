@@ -17,7 +17,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <hr />
 <p align="center">  
-Hello! My name is Jakob Engler, and I am a jr Full-Stack Devoloper. I'm very exited about my new journey into software, and my continued grown in the indusrty.
+Hello! My name is Jakob Engler, and I am a Freelance Front-End Software Devoloper. I create dynamic and responsive user interfaces using React.js and JavaScript, with Material UI framework to design a visually appealing and consistent user experience
 </p>
 <br />
 <!--------------------- Interests ---------------------->
