@@ -24,7 +24,7 @@ Hello! My name is Jakob Engler, and I am a Freelance Front-End Software Devolope
 <h3 align="center">Interests</h3>
 <hr />
 <p align="center">
-💻  <b>Full Stack Development</b> &nbsp;&bull;&nbsp; 🚗 <b>Motor Sports</b> &nbsp;&bull;&nbsp; <b> &nbsp;&bull;&nbsp; 🤓 <b>Learning New Things</b>
+💻  <b>Full Stack Development</b> &nbsp;&bull;&nbsp; 🚗 <b>Motor Sports</b>  <b> &nbsp;&bull;&nbsp; 🤓 <b>Learning New Things</b>
 <br />
 <!--------------------- Technologies ---------------------->
 <h3 align="center">Technologies</h3>
